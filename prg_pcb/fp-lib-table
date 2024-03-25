@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "components")(type "KiCad")(uri "/home/thinkbox/Projects/kicad_course_prg/components")(options "")(descr ""))
+)

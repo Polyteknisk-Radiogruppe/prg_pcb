@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "lcd")(type "KiCad")(uri "/home/thinkbox/Projects/kicad_course_prg/components/lcd.kicad_sym")(options "")(descr ""))
+  (lib (name "audio")(type "KiCad")(uri "/home/thinkbox/Projects/kicad_course_prg/components/audio.kicad_sym")(options "")(descr ""))
+)

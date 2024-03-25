@@ -1,0 +1,10 @@
+Sensirion SHT3x-DIS DFN-8
+SHT30-DIS
+
+VEML7700
+lav selv
+
+VL53L4CX
+VL53L1
+
+
