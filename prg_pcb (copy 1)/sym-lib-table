@@ -1,7 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "ssd1306")(type "KiCad")(uri "/home/thinkbox/Projects/prg_pcb/components/symbols/ssd1306.kicad_sym")(options "")(descr ""))
-  (lib (name "MP34DT01-M")(type "KiCad")(uri "/home/thinkbox/Projects/prg_pcb/components/symbols/MP34DT01-M.kicad_sym")(options "")(descr ""))
-  (lib (name "VEML7700-TR")(type "KiCad")(uri "/home/thinkbox/Projects/prg_pcb/components/symbols/VEML7700-TR.kicad_sym")(options "")(descr ""))
-  (lib (name "prg_pcb")(type "KiCad")(uri "/home/menheru/Projects/prg_pcb_pres/components/symbols/prg_pcb.kicad_sym")(options "")(descr ""))
-)
