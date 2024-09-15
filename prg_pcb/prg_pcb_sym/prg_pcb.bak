@@ -203,7 +203,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "VEML7700-TR used for PRG PCB course"
+		(property "Description" ""
 			(at 0 0 0)
 			(effects
 				(font
@@ -212,7 +212,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_keywords" "VEML7700-TR, prg_pcb, sensor, prg, light sensor"
+		(property "ki_keywords" "VEML7700-TR, prg_pcb, sensor, "
 			(at 0 0 0)
 			(effects
 				(font
